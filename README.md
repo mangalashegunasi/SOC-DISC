@@ -5,7 +5,7 @@ SOC-DISC (WINTechon-Hackathon). This library enables existing smart-watch to hel
     Covid-19 is having an unprecedented impact on our society and our economy. There has been a surge in the demand of medical facilities. SOC-DISC This library enables existing smart-watch to help user's fight against any contagious diseases like H1N1, Covid-19 etc.
     
 # Demo video
-[![Audi R8](./Map.PNG)](https://youtu.be/qG-bMis2MEs)
+[![Demo](./demo.PNG)](https://youtu.be/qG-bMis2MEs)
   
 #    Long description:
     Covid-19 is having an unprecedented impact on our society and our economy. There has been a surge in the demand of medical facilities. In these difficult times returning to work or normalcy for many people is mandatory. While we return to normalcy keeping oneself safe and following the social distancing norms gets very difficult. Smart medical sensors and Internet of things devices can be used to provide an alert to the person using the device so that he can take appropriate actions. In this prototype we propose to solve these problems by providing alerts to the user through a beep. 
