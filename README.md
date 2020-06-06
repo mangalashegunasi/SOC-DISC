@@ -17,12 +17,13 @@ SOC-DISC (WINTechon-Hackathon). This library enables existing smart-watch to hel
 
 # Getting started:
 ## Prerequisite
-
 Phython 3.x
-
-## Clone the Project
+Pip 3.x
+## Libraries to install
+beeply,  bokeh.io, random, gmplot.
 
 ## Run the Project
+python3 SO-DISC.py
 
 # People near you
 
