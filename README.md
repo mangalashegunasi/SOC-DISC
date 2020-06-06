@@ -1,2 +1,1 @@
-# SOC-DISC
-WINTechon-Hackathon
+WINTechon-Hackathon SOC-DISC This library enables existing smart-watch to help user's fight against any contagious diseases like H1N1, Covid-19 etc. Getting Started You can use this library locally in any simulator development environment. Just import the library and Happy development. This library depends on sensor based data like temperature, touch etc. It also uses user’s location. Dependencies This library is using following python libraries: JSON Beeply GMAP Features User will get notifications whenever: • User’s temperature is more than X • User has done a handshake • User is defying social distancing norms
