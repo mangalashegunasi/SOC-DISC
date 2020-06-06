@@ -24,7 +24,11 @@ Phython 3.x
 
 ## Run the Project
 
-# Data on Map
+# People near you
+
+The number of people and their locations within the defined radius are shown in blue,and self who is wearing the strip is shown in red color on the map.
+
+The same map can be used to check if any person within defined radius has temperature(in Red) and people with normal temperature within defined radius are shown in(Blue) 
 
 ![Check COVID suspect](./Map.PNG)
 
