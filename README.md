@@ -24,3 +24,7 @@ Phython 3.x
 
 ## Run the Project
 
+## Data on Map
+
+![Check COVID suspect](./Map.PNG)
+
